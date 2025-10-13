@@ -1,4 +1,5 @@
 - Hi, I’m Adam Harith but u can call me Harith!
+- Frontend Website and Mobile App developer
 - 
 
 
