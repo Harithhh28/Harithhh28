@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Harithhh28
-- 👀 I’m interested in u 🐅
-- 🌱 I’m currently learning python
+- Hi, I’m Adam Harith but u can call me Harith!
+- 
 
 
 <!---
