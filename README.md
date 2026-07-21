@@ -2,7 +2,7 @@
 
 👋 Hi, I'm Hart!
 
-🎓 Software Engineering passionate about building modern web applications and solving real-world problems through technology.
+🎓 Software Engineer passionate about building modern web applications and solving real-world problems through technology.
 
 💻 I primarily work with **Laravel, PHP, MySQL, HTML, CSS, Bootstrap, and JavaScript**, while also developing cross-platform mobile applications using **Flutter & Firebase**.
 
